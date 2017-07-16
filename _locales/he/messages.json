@@ -1,0 +1,1411 @@
+{
+  "chrome_language": {
+    "message": "he",
+    "description": "language identifier used by Chrome"
+  },
+  "manifest_name": {
+    "message": "Better History",
+    "description": "Manifest name"
+  },
+  "manifest_browser_action_title": {
+    "message": "היסטוריית גלישה",
+    "description": "Manifest browser action title"
+  },
+  "manifest_description": {
+    "message": "מבט טוב יותר על היסטוריית הגלישה שלך. חיפוש טוב יותר, ממשק נוח יותר, והמסננים שימושיים - על ההיסטוריה שלך.",
+    "description": "Manifest description"
+  },
+
+  "history_title": {
+    "message": "היסטוריה",
+    "description": "Extension title"
+  },
+
+  "short_date": {
+    "message": "MMMM Do",
+    "description": "for Moment.js"
+  },
+  "short_date_with_day": {
+    "message": "dddd, MMMM Do",
+    "description": "for Moment.js"
+  },
+  "date_week_label": {
+    "message": "Week of $week$",
+    "description": "short week w/ label",
+    "placeholders": {
+      "week": {
+        "content": "$1",
+        "example": "date"
+      }
+    }
+  },
+
+  "extended_formal_date": {
+    "message": "dddd, MMMM Do, YYYY",
+    "description": "The order of a full extended date"
+  },
+  "formal_date": {
+    "message": "MMMM Do YYYY",
+    "description": "The order of a full date"
+  },
+  "local_time": {
+    "message": "h:mm A",
+    "description": "local time format"
+  },
+  "this_week": {
+    "message": "השבוע הנוכחי",
+    "description": "this week"
+  },
+  "last_week": {
+    "message": "השבוע האחרון",
+    "description": "last week"
+  },
+
+  "morning": {
+    "message": "לפני הצהרים",
+    "description": "The morning abbreviation when using 12 hour time"
+  },
+  "afternoon": {
+    "message": "אחר הצהרים",
+    "description": "The afternoon abbreviation when using 12 hour time"
+  },
+  "evening": {
+    "message": "בערב",
+    "description": "The n abbreviation when using 12 hour time"
+  },
+
+  "settings_title": {
+    "message": "הגדרות",
+    "description": "Settings title for Settings page"
+  },
+  "clearing_history_section_title": {
+    "message": "ניקוי היסטוריה",
+    "description": "Section heading in Settings"
+  },
+  "clear_history_button": {
+    "message": "נקה היסטוריה...",
+    "description": "Button text for clear history button in Settings"
+  },
+  "visit_grouping_section_title": {
+    "message": "Visit grouping",
+    "description": "Section heading in Settings"
+  },
+  "group_visits_by_label": {
+    "message": "Group visits by",
+    "description": "Label for select box to set the time grouping interval for visits"
+  },
+  "60_minutes_option": {
+    "message": "60 דקות",
+    "description": "Time amount"
+  },
+  "30_minutes_option": {
+    "message": "30 דקות",
+    "description": "Time amount"
+  },
+  "15_minutes_option": {
+    "message": "15 דקות",
+    "description": "Time amount"
+  },
+  "time_format_label": {
+    "message": "פורמט שעות",
+    "description": "Label for select box to set the time format (12 or 24 hours)"
+  },
+  "12_hours_option": {
+    "message": "12 שעות",
+    "description": "12 hour time format, example: 3:00 PM"
+  },
+  "24_hours_option": {
+    "message": "24 שעות",
+    "description": "24 hour time format, example: 14:00"
+  },
+  "group_visits_by_domain_label": {
+    "message": "Group visits by domain",
+    "description": "Label for check box to group visits by domain"
+  },
+  "right_click_options_section_title": {
+    "message": "אפשרויות קליק ימני",
+    "description": "Section heading in Settings"
+  },
+  "search_by_text_selection_label": {
+    "message": "חפש לפי בחירת טקסט",
+    "description": "Label for check box to enable right click option"
+  },
+  "search_by_domain_label": {
+    "message": "חפש לפי כתובת",
+    "description": "Label for check box to enable right click option"
+  },
+  "Whats_new_section_title": {
+    "message": "מה חדש",
+    "description": "Section heading in Settings"
+  },
+  "view_release_announcement_link": {
+    "message": "הצג הודעות שחרור",
+    "description": "Link text to view the release announcement"
+  },
+  "current_version_label": {
+    "message": "גירסה נוכחית",
+    "description": "label for the current version"
+  },
+  "credits_link": {
+    "message": "$open$Better History$close$ credits",
+    "description": "The link to credits",
+    "placeholders": {
+      "open": {
+        "content": "$1",
+        "example": "strong open"
+      },
+      "close": {
+        "content": "$2",
+        "example": "strong close"
+      }
+    }
+  },
+  "feedback_section_title": {
+    "message": "משוב",
+    "description": "Section heading in Settings"
+  },
+  "suggestions_bugs_comments": {
+    "message": "הצעות, באגים, הערות? כתבו לנו $link_open$@Better_History$link_close$",
+    "description": "Link text to give feedback",
+    "placeholders": {
+      "link_open": {
+        "content": "$1"
+      },
+      "link_close": {
+        "content": "$2"
+      }
+    }
+  },
+  "spread_the_word_section_title": {
+    "message": "Spread the word",
+    "description": "Section heading in Settings"
+  },
+  "leave_a_review": {
+    "message": "Leave a review",
+    "description": "Link text to leave a review"
+  },
+  "default_time_format": {
+    "message": "12",
+    "description": "12 or 24 hour based"
+  },
+
+  "search_input_placeholder_text": {
+    "message": "Search title or url",
+    "description": "Placeholder text in the search input box"
+  },
+  "search_link": {
+    "message": "חפש",
+    "description": "Text for the link to Search"
+  },
+  "settings_link": {
+    "message": "הגדרות",
+    "description": "Text for the link to Settings"
+  },
+  "today_link": {
+    "message": "היום",
+    "description": "Link for today"
+  },
+  "yesterday_link": {
+    "message": "אתמול",
+    "description": "Link for yesterday"
+  },
+  "monday": {
+    "message": "יום שני",
+    "description": "The day of the week"
+  },
+  "tuesday": {
+    "message": "יום שלישי",
+    "description": "The day of the week"
+  },
+  "wednesday": {
+    "message": "יום רביעי",
+    "description": "The day of the week"
+  },
+  "thursday": {
+    "message": "יום חמישי",
+    "description": "The day of the week"
+  },
+  "friday": {
+    "message": "יום שישי",
+    "description": "The day of the week"
+  },
+  "saturday": {
+    "message": "שבת",
+    "description": "The day of the week"
+  },
+  "sunday": {
+    "message": "יום ראשון",
+    "description": "The day of the week"
+  },
+  "1": {
+    "message": "1",
+    "description": "the number"
+  },
+  "ordinal_1": {
+    "message": "st",
+    "description": "the ordinal for 1"
+  },
+  "2": {
+    "message": "2",
+    "description": "the number"
+  },
+  "ordinal_2": {
+    "message": "nd",
+    "description": "the ordinal for 2"
+  },
+  "3": {
+    "message": "3",
+    "description": "the number"
+  },
+  "ordinal_3": {
+    "message": "rd",
+    "description": "the ordinal for 3"
+  },
+  "4": {
+    "message": "4",
+    "description": "the number"
+  },
+  "ordinal_4": {
+    "message": "th",
+    "description": "the ordinal for 4"
+  },
+  "5": {
+    "message": "5",
+    "description": "the number"
+  },
+  "ordinal_5": {
+    "message": "th",
+    "description": "the ordinal for 5"
+  },
+  "6": {
+    "message": "6",
+    "description": "the number"
+  },
+  "ordinal_6": {
+    "message": "th",
+    "description": "the ordinal for 6"
+  },
+  "7": {
+    "message": "7",
+    "description": "the number"
+  },
+  "ordinal_7": {
+    "message": "th",
+    "description": "the ordinal for 7"
+  },
+  "8": {
+    "message": "8",
+    "description": "the number"
+  },
+  "ordinal_8": {
+    "message": "th",
+    "description": "the ordinal for 8"
+  },
+  "9": {
+    "message": "9",
+    "description": "the number"
+  },
+  "ordinal_9": {
+    "message": "th",
+    "description": "the ordinal for 9"
+  },
+  "10": {
+    "message": "10",
+    "description": "the number"
+  },
+  "ordinal_10": {
+    "message": "th",
+    "description": "the ordinal for 10"
+  },
+  "11": {
+    "message": "11",
+    "description": "the number"
+  },
+  "ordinal_11": {
+    "message": "th",
+    "description": "the ordinal for 11"
+  },
+  "12": {
+    "message": "12",
+    "description": "the number"
+  },
+  "ordinal_12": {
+    "message": "th",
+    "description": "the ordinal for 12"
+  },
+  "13": {
+    "message": "13",
+    "description": "the number"
+  },
+  "ordinal_13": {
+    "message": "th",
+    "description": "the ordinal for 13"
+  },
+  "14": {
+    "message": "14",
+    "description": "the number"
+  },
+  "ordinal_14": {
+    "message": "th",
+    "description": "the ordinal for 14"
+  },
+  "15": {
+    "message": "15",
+    "description": "the number"
+  },
+  "ordinal_15": {
+    "message": "th",
+    "description": "the ordinal for 15"
+  },
+  "16": {
+    "message": "16",
+    "description": "the number"
+  },
+  "ordinal_16": {
+    "message": "th",
+    "description": "the ordinal for 16"
+  },
+  "17": {
+    "message": "17",
+    "description": "the number"
+  },
+  "ordinal_17": {
+    "message": "th",
+    "description": "the ordinal for 17"
+  },
+  "18": {
+    "message": "18",
+    "description": "the number"
+  },
+  "ordinal_18": {
+    "message": "th",
+    "description": "the ordinal for 18"
+  },
+  "19": {
+    "message": "19",
+    "description": "the number"
+  },
+  "ordinal_19": {
+    "message": "th",
+    "description": "the ordinal for 19"
+  },
+  "20": {
+    "message": "20",
+    "description": "the number"
+  },
+  "ordinal_20": {
+    "message": "th",
+    "description": "the ordinal for 20"
+  },
+  "21": {
+    "message": "21",
+    "description": "the number"
+  },
+  "ordinal_21": {
+    "message": "st",
+    "description": "the ordinal for 21"
+  },
+  "22": {
+    "message": "22",
+    "description": "the number"
+  },
+  "ordinal_22": {
+    "message": "nd",
+    "description": "the ordinal for 22"
+  },
+  "23": {
+    "message": "23",
+    "description": "the number"
+  },
+  "ordinal_23": {
+    "message": "rd",
+    "description": "the ordinal for 23"
+  },
+  "24": {
+    "message": "24",
+    "description": "the number"
+  },
+  "ordinal_24": {
+    "message": "th",
+    "description": "the ordinal for 24"
+  },
+  "25": {
+    "message": "25",
+    "description": "the number"
+  },
+  "ordinal_25": {
+    "message": "th",
+    "description": "the ordinal for 25"
+  },
+  "26": {
+    "message": "26",
+    "description": "the number"
+  },
+  "ordinal_26": {
+    "message": "th",
+    "description": "the ordinal for 26"
+  },
+  "27": {
+    "message": "27",
+    "description": "the number"
+  },
+  "ordinal_27": {
+    "message": "th",
+    "description": "the ordinal for 27"
+  },
+  "28": {
+    "message": "28",
+    "description": "the number"
+  },
+  "ordinal_28": {
+    "message": "th",
+    "description": "the ordinal for 28"
+  },
+  "29": {
+    "message": "29",
+    "description": "the number"
+  },
+  "ordinal_29": {
+    "message": "th",
+    "description": "the ordinal for 29"
+  },
+  "30": {
+    "message": "30",
+    "description": "the number"
+  },
+  "ordinal_30": {
+    "message": "th",
+    "description": "the ordinal for 30"
+  },
+  "31": {
+    "message": "31",
+    "description": "the number"
+  },
+  "ordinal_31": {
+    "message": "st",
+    "description": "the ordinal for 31"
+  },
+
+  "collapse_button": {
+    "message": "צמצם",
+    "description": "Text for collapse button"
+  },
+  "expand_button": {
+    "message": "הרחב",
+    "description": "Text for expand button"
+  },
+  "delete_all_visits_for_filter_button": {
+    "message": "מחיקה...",
+    "description": "Text for delete all visits for a day filter button"
+  },
+  "no_visits_found": {
+    "message": "מצטערים, לא נמצאו ביקורים.",
+    "description": "Text for no visits found message"
+  },
+  "january": {
+    "message": "ינואר",
+    "description": "The month"
+  },
+  "february": {
+    "message": "פברואר",
+    "description": "The month"
+  },
+  "march": {
+    "message": "מרץ",
+    "description": "The month"
+  },
+  "april": {
+    "message": "אפריל",
+    "description": "The month"
+  },
+  "may": {
+    "message": "מאי",
+    "description": "The month"
+  },
+  "june": {
+    "message": "יוני",
+    "description": "The month"
+  },
+  "july": {
+    "message": "יולי",
+    "description": "The month"
+  },
+  "august": {
+    "message": "אוגוסט",
+    "description": "The month"
+  },
+  "september": {
+    "message": "ספטמבר",
+    "description": "The month"
+  },
+  "october": {
+    "message": "אוקטובר",
+    "description": "The month"
+  },
+  "november": {
+    "message": "נובמבר",
+    "description": "The month"
+  },
+  "december": {
+    "message": "דצמבר",
+    "description": "The month"
+  },
+  "confirm_delete_all_visits": {
+    "message": "מחק את כל הביקורים מתאריך $formal_date$?",
+    "description": "Confirmation text to delete all visits from a specific date",
+    "placeholders": {
+      "formal_date": {
+        "content": "$1",
+        "example": "January 2, 2011"
+      }
+    }
+  },
+
+  "number_of_visits": {
+    "message": "$number$ ביקורים",
+    "description": "Label to a number representing a number of visits",
+    "placeholders": {
+      "number": {
+        "content": "$1",
+        "example": "the number of visits"
+      }
+    }
+  },
+  "delete_time_interval_button": {
+    "message": "מחק",
+    "description": "delete button label"
+  },
+  "delete_time_interval_button_tooltip": {
+    "message": "מחק",
+    "description": "delete button tooltip"
+  },
+
+  "prompt_cancel_button": {
+    "message": "בטל",
+    "description": "Button to close modal"
+  },
+  "prompt_delete_button": {
+    "message": "מחק",
+    "description": "Button to delete history"
+  },
+  "prompt_done_button": {
+    "message": "בוצע",
+    "description": "Button to dismiss modal"
+  },
+  "prompt_okay_button": {
+    "message": "אישור",
+    "description": "Button to dismiss modal"
+  },
+  "prompt_title": {
+    "message": "אישור ביצוע",
+    "description": "Title of prompt"
+  },
+
+  "credits_title": {
+    "message": "Better History Credits",
+    "description": "Title for credits modal"
+  },
+  "developed_by": {
+    "message": "יצירה ופיתוח $link_open$$name$$link_close$",
+    "description": "Developer label",
+    "placeholders": {
+      "link_open": {
+        "content": "$1",
+        "example": "Opening link"
+      },
+      "link_close": {
+        "content": "$2",
+        "example": "Closing link"
+      },
+      "name": {
+        "content": "$3",
+        "example": "Developer name"
+      }
+    }
+  },
+  "translators_heading": {
+    "message": "מתרגמים",
+    "description": "Heading for translators"
+  },
+  "spanish": {
+    "message": "ספרדית",
+    "description": "The language"
+  },
+  "russian": {
+    "message": "רוסית",
+    "description": "The language"
+  },
+  "portuguese": {
+    "message": "פורטוגזית",
+    "description": "The language"
+  },
+  "italian": {
+    "message": "איטלקית",
+    "description": "The language"
+  },
+  "french": {
+    "message": "צרפתית",
+    "description": "The language"
+  },
+  "swedish": {
+    "message": "שוודית",
+    "description": "The language"
+  },
+  "chinese_simplified": {
+    "message": "סינית (פשוטה)",
+    "description": "The language"
+  },
+  "german": {
+    "message": "גרמנית",
+    "description": "The language"
+  },
+  "polish": {
+    "message": "פולנית",
+    "description": "The language"
+  },
+  "hungarian": {
+    "message": "הונגרית",
+    "description": "The language"
+  },
+  "arabic": {
+    "message": "ערבית",
+    "description": "The language"
+  },
+  "slovak": {
+    "message": "סלובקית",
+    "description": "The language"
+  },
+  "turkish": {
+    "message": "טורקית",
+    "description": "The language"
+  },
+  "latvian": {
+    "message": "לטבית",
+    "description": "The language"
+  },
+  "dutch": {
+    "message": "הולנדית",
+    "description": "The language"
+  },
+  "czech": {
+    "message": "צ'כית",
+    "description": "The language"
+  },
+  "japanese": {
+    "message": "יפנית",
+    "description": "The language"
+  },
+  "vietnamese": {
+    "message": "ויאטנמית",
+    "description": "The language"
+  },
+  "romanian": {
+    "message": "רומנית",
+    "description": "The language"
+  },
+  "hindi": {
+    "message": "הינדי",
+    "description": "The language"
+  },
+  "catalonian": {
+    "message": "קטלוני",
+    "description": "The language"
+  },
+  "translation_help_heading": {
+    "message": "אינך רואה את השפה שלך?",
+    "description": "Heading to recruit translators"
+  },
+  "translation_instructions": {
+    "message": "האם אתה מדבר אנגלית ורוצה לתרגם את Better History לשפה חדשה? מצוין! פשוט שלח דוא"ל אל $link_open$ $email$ $link_close$",
+    "description": "Instructions on how to help translate",
+    "placeholders": {
+      "email": {
+        "content": "$1",
+        "example": "Contact email address"
+      },
+      "link_open": {
+        "content": "$2",
+        "example": "open tag for email link"
+      },
+      "link_close": {
+        "content": "$3",
+        "example": "close tag for email link"
+      }
+    }
+  },
+  "close_button": {
+    "message": "אישור",
+    "description": "Button to close modal"
+  },
+
+  "version_title": {
+    "message": "A Major Milestone: Visits organized by week!",
+    "description": "Title of the version modal"
+  },
+  "version_description": {
+    "message": "",
+    "description": "Version description"
+  },
+  "version_important_note": {
+    "message": "Important note",
+    "description": "Heading for an important note"
+  },
+  "version_note": {
+    "message": "",
+    "descriotion": "Feedback and support note"
+  },
+  "version_whats_new": {
+    "message": "מה חדש",
+    "description": "Heading for what's new in version"
+  },
+  "version_items": {
+    "message": "$open$Visits organized into week intervals$close$ $open$Easily view the last 10 weeks of visits$close$ $open$Week summary of browsing activity$close$ $open$Speedy startup time$close$ $open$Optimized searching and grouping of visits$close$ $open$Easily search by a past visit's domain$close$",
+    "description": "Release bulletpoints",
+    "placeholders": {
+      "open": {
+        "content": "$1",
+        "example": "<li>"
+      },
+      "close": {
+        "content": "$2",
+        "example": "</li>"
+      }
+    }
+  },
+
+  "search_time_frame": {
+    "message": "בחודשים האחרונים",
+    "description": "Time frame relating to Search"
+  },
+  "searching_title": {
+    "message": "מחפש",
+    "description": "Searching title"
+  },
+  "and": {
+    "message": "ו",
+    "description": "The word and"
+  },
+  "delete_all_visits_for_search_button": {
+    "message": "מחיקה...",
+    "description": "Text for delete all visits from search button"
+  },
+  "confirm_delete_all_search_results": {
+    "message": "האם למחוק את כל תוצאות החיפוש?",
+    "description": "Confirmation text to delete all search results"
+  },
+  "number_of_search_results": {
+    "message": "נמצאו $number$ תוצאות",
+    "description": "number of search results found",
+    "placeholders": {
+      "number": {
+        "content": "$1",
+        "example": "10"
+      }
+    }
+  },
+  "max_number_of_search_results": {
+    "message": "נמצאו יותר מ $number$ תוצאות",
+    "description": "number of search results found",
+    "placeholders": {
+      "number": {
+        "content": "$1",
+        "example": "10"
+      }
+    }
+  },
+
+  "search_in_history": {
+    "message": "חפש בהיסטוריה",
+    "description": "Label for search in history context menu item"
+  },
+  "visits_to_domain": {
+    "message": "ביקורים אל $domain$",
+    "description": "Label for visits to domain context menu item",
+    "placeholders": {
+      "domain": {
+        "content": "$1",
+        "example": "google.com"
+      }
+    }
+  },
+
+  "delete_grouped_visits": {
+    "message": "Delete grouped visits",
+    "description": "Tooltip for the delete button on grouped visits"
+  },
+  "delete_visit": {
+    "message": "מחק ביקור",
+    "description": "Tooltip for the delete button on a page visit"
+  },
+
+  "twitter_template": {
+    "message": "Better History for Chrome, see what you're missing!",
+    "description": "Default message for Twitter sharing"
+  },
+  "twitter_language": {
+    "message": "he",
+    "description": "Twitter language abbreviation"
+  },
+
+  "google_plus_language": {
+    "message": "he",
+    "description": "Google plus language abbreviation"
+  },
+
+  "back_to_week_link": {
+    "message": "$arrow$ חזרה לשבוע",
+    "description": "back to week link",
+    "placeholders": {
+      "arrow": {
+        "content": "$1",
+        "example": "an arrow"
+      }
+    }
+  },
+  "back_arrow": {
+    "message": "&larr;",
+    "description": "ascii arrow"
+  },
+  "forward_arrow": {
+    "message": "&rarr;",
+    "description": "ascii arrow"
+  },
+
+  "search_by_domain": {
+    "message": "עוד מהאתר",
+    "description": "search by domain of visit"
+  },
+
+  "last_visit": {
+    "message": "דף ביקר לאחרונה",
+    "description": "last visited page"
+  },
+  "current_day": {
+    "message": "היום",
+    "description": "the current day's visits"
+  },
+  "current_week": {
+    "message": "השבוע",
+    "description": "the current week's visits"
+  },
+  "open_location": {
+    "message": "Open to",
+    "description": "open to <page>"
+  },
+  "starting_week_day": {
+    "message": "שבוע מתחיל מיום",
+    "description": "day that the week starts on"
+  },
+  "general_section_title": {
+    "message": "כללי",
+    "description": "General section title in settings"
+  },
+  "week_day_order": {
+    "message": "סדר יום בשבוע",
+    "description": "the week day order"
+  },
+  "ascending": {
+    "message": "סדר עולה",
+    "description": "ascending week day order"
+  },
+  "descending": {
+    "message": "סדר יורד",
+    "description": "descending week day order"
+  },
+
+  "search_title": {
+    "message": "חיפוש",
+    "description": "title for the search page"
+  },
+
+  "mailing_list_title": {
+    "message": "Big things are coming to Better History!",
+    "description": "the title for the sign up modal"
+  },
+  "mailing_list_description": {
+    "message": "Join the mailing list to receive updates about new features that will help you get the most out of your browsing history.",
+    "description": "description as to why it's good to join the mailing list"
+  },
+  "mailing_list_link": {
+    "message": "הצטרף לרשימת התפוצה",
+    "description": " link text to join the mailing list"
+  },
+  "mailing_list_promise": {
+    "message": "אנו מכבדים את פרטיות הדוא"ל שלך. לעולם לא נשלח ספאם.",
+    "description": "no spamming and privacy message"
+  },
+
+  "tags_link": {
+    "message": "תגיות",
+    "description": "Tags link text in the main nav"
+  },
+  "tags_title": {
+    "message": "כל התגיות",
+    "description": "Tags title text in the tags view"
+  },
+  "tag_title": {
+    "message": "$name$ tag",
+    "description": "Individual tag title",
+    "placeholders": {
+      "name": {
+        "content": "$1",
+        "example": "recipes, news, technology, etc..."
+      }
+    }
+  },
+  "back_to_tags_link": {
+    "message": "$arrow$ חזרה לתגיות",
+    "description": "back to tags link",
+    "placeholders": {
+      "arrow": {
+        "content": "$1",
+        "example": "an arrow"
+      }
+    }
+  },
+  "delete_all_tags": {
+    "message": "מחיקה...",
+    "description": "Text for delete all sites in a tags"
+  },
+  "confirm_delete_all_tags": {
+    "message": "האם למחוק את כל התגיות?",
+    "description": "Text for delete all tags"
+  },
+  "delete_tag": {
+    "message": "מחיקה...",
+    "description": "Text for delete all sites in a tag"
+  },
+  "confirm_delete_tag": {
+    "message": "האם למחוק את התגית $name$ ואת כל האתרים בתגית?",
+    "description": "Text for delete all sites in a tag",
+    "placeholders": {
+      "name": {
+        "content": "$1",
+        "example": "recipes, news, technology, etc..."
+      }
+    }
+  },
+  "number_of_tags": {
+    "message": "$number$ תגיות",
+    "description": "Number of tags",
+    "placeholders": {
+      "number": {
+        "content": "$1",
+        "example": "1,2,3,..."
+      }
+    }
+  },
+  "no_tagged_sites_found": {
+    "message": "מצטערים, לא ניתן למצוא אתרים מתויגים",
+    "description": "message for a tag with no sites"
+  },
+  "no_tags_found": {
+    "message": "לא נמצאו תגיות, עליך לתייג אתרים מסוימים!",
+    "description": "message for no tags found"
+  },
+  "rename_tag_link": {
+    "message": "שנה שם",
+    "description": "rename link text from tags"
+  },
+  "share_tag_link": {
+    "message": "שתף",
+    "description": "share link text from tags"
+  },
+  "rename_tag_title": {
+    "message": "שנה שם לתגית $name$",
+    "description": "rename link text from tags",
+    "placeholders": {
+      "name": {
+        "content": "$1",
+        "example": "tech, cooking, news, etc..."
+      }
+    }
+  },
+  "rename_tag_button": {
+    "message": "שנה שם",
+    "description": "rename button text"
+  },
+  "new_tag_placeholder": {
+    "message": "שם חדש",
+    "description": "placeholder text for tag rename input"
+  },
+  "how_to_tag": {
+    "message": "כיצד לתייג",
+    "description": "link text for how to tag link"
+  },
+  "about_tags_title": {
+    "message": "תייג את האתרים המועדפים עליך וצור ספרייה של נושאים ותחומי עניין!",
+    "description": "about tags title shown on first visit to tags page"
+  },
+  "about_tags_instructions": {
+    "message": "Checkout the example tags below. Once you get the idea, delete the tags and start creating your own! Tag sites that you visit easily by watching $link_open$How to tag$link_close$. For more tips, tricks, and general announcements, join the $mailing_open$mailing list!$mailing_close$",
+    "description": "about tags description shown on the first visit to the tags page",
+    "placeholders": {
+      "link_open": {
+        "content": "$1",
+        "example": "open link tag"
+      },
+      "link_close": {
+        "content": "$2",
+        "example": "close link tag"
+      },
+      "mailing_open": {
+        "content": "$3",
+        "example": "open mailing tag"
+      },
+      "mailing_close": {
+        "content": "$4",
+        "example": "close mailing tag"
+      }
+    }
+  },
+  "how_to_tag_title": {
+    "message": "כיצד לתייג",
+    "description": "title for how to tag content"
+  },
+  "tag_visits_title": {
+    "message": "Tag sites",
+    "description": "title for tagging visited sites modal"
+  },
+  "sync_tags_link": {
+    "message": "סנכרן את התגיות שלך - $login_open$Login$login_close$",
+    "description": "link to sign up for syncing",
+    "placeholders": {
+      "login_open": {
+        "content": "$1",
+        "example": "open login tag"
+      },
+      "login_close": {
+        "content": "$2",
+        "example": "close login tag"
+      }
+    }
+  },
+  "add_a_tag_placeholder": {
+    "message": "הוסף תגית",
+    "description": "add a tag placeholder text"
+  },
+  "extra_tag_help": {
+    "message": "Check out $how_to_tag_open$how to tag$how_to_tag_close$ or load the $example_tags_open$example tags$example_tags_close$",
+    "description": "extra tag help",
+    "placeholders": {
+      "how_to_tag_open": {
+        "content": "$1",
+        "example": "open link tag"
+      },
+      "how_to_tag_close": {
+        "content": "$2",
+        "example": "close link tag"
+      },
+      "example_tags_open": {
+        "content": "$3",
+        "example": "open link tag"
+      },
+      "example_tags_close": {
+        "content": "$4",
+        "example": "close link tag"
+      }
+    }
+  },
+  "create_new_tag_title": {
+    "message": "יצירת תגית חדשה",
+    "description": "create new tag title"
+  },
+  "new_tag_button": {
+    "message": "יצירה",
+    "description": "create tag button"
+  },
+  "about_tags_for_popup": {
+    "message": "$new_open$New!$new_close$ Tag sites with Better History. $link_open$Details...$link_close$",
+    "description": "about tags for the popup triggered by the browser action",
+    "placeholders": {
+      "new_open": {
+        "content": "$1",
+        "example": "open new tag"
+      },
+      "new_close": {
+        "content": "$2",
+        "example": "close new tag"
+      },
+      "link_open": {
+        "content": "$3",
+        "example": "open link tag"
+      },
+      "link_close": {
+        "content": "$4",
+        "example": "close link tag"
+      }
+    }
+  },
+  "explore_tags_link": {
+    "message": "סייר בתגיות",
+    "description": "explore tags link in popup"
+  },
+  "search_domain_history_link": {
+    "message": "חפש ביקורים ב$domain$",
+    "description": "search domain link in popup",
+    "placeholders": {
+      "domain": {
+        "content": "$1",
+        "example": "google.com"
+      }
+    }
+  },
+  "view_all_history_link": {
+    "message": "הצג את כל ההיסטוריה",
+    "description": "view all history link in popup"
+  },
+  "auth_success_title": {
+    "message": "הינך מחובר בהצלחה.",
+    "description": "authorization success title"
+  },
+  "auth_success_description": {
+    "message": "עדכונים לתגיות שלך יסונכרנו ויגובו בבטחה. צור וארגן תגיות!",
+    "description": "authorization success description"
+  },
+  "sync_enabled": {
+    "message": "Sync $highlight_open$ON$highlight_close$",
+    "description": "sync enabled message",
+    "placeholders": {
+      "highlight_open": {
+        "content": "$1",
+        "example": "highlight open tag"
+      },
+      "highlight_close": {
+        "content": "$2",
+        "example": "highlight close tag"
+      }
+    }
+  },
+  "sign_up_info_title": {
+    "message": "שמור על התגיות שלך בטוחים, סנכרן אותם!",
+    "description": "sign up info modal title"
+  },
+  "sign_up_info_description": {
+    "message": "Tag with confidence knowing that every site that you tag is safely stored in the cloud. Access your tags from any Chrome browser running Better History!",
+    "description": "description"
+  },
+  "sign_up_info_bullets": {
+    "message": "$open$Linked to your Google account$close$$open$Store unlimited tags and sites$close$$open$Log into Better History when signed into Chrome$close$$open$Sync tags across Chrome browsers (when signed in)$close$$open$Safely stored in the cloud$close$$open$Access tagged sites on the go at $betterHistoryOpen$better-history.com$betterHistoryClose$$close$",
+    "description": "sign up info",
+    "placeholders": {
+      "open": {
+        "content": "$1",
+        "example": "bullet open"
+      },
+      "close": {
+        "content": "$2",
+        "example": "bullet close"
+      },
+      "betterHistoryOpen": {
+        "content": "$3",
+        "example": "better history open link"
+      },
+      "betterHistoryClose": {
+        "content": "$4",
+        "example": "better history close link"
+      }
+    }
+  },
+  "sign_up_info_price": {
+    "message": "$$8 (a one-time fee)",
+    "description": "syncing price"
+  },
+  "sign_up_info_question": {
+    "message": "שאלות? hello@better-history.com",
+    "description": "sign up questions"
+  },
+  "sign_up_temporarily_closed": {
+    "message": "מצטערים, הרישום סגור באופן זמני",
+    "description": "closed registration message"
+  },
+  "continue_button": {
+    "message": "המשך",
+    "description": "continue button"
+  },
+  "syncing_settings_title": {
+    "message": "סנכרון תגיות",
+    "description": "tag syncing title"
+  },
+  "syncing_settings_login": {
+    "message": "Sync your tags - $login_open$Login$login_close$",
+    "description": "link to sign up for syncing",
+    "placeholders": {
+      "login_open": {
+        "content": "$1",
+        "example": "open login tag"
+      },
+      "login_close": {
+        "content": "$2",
+        "example": "close login tag"
+      }
+    }
+  },
+  "initial_syncing_title": {
+    "message": "סנכרון",
+    "description": "title for the syncing modal on initial log in"
+  },
+  "initial_syncing_description": {
+    "message": "מסנכרן את כל האתרים המתויגים שלך...",
+    "description": "initial syncing description"
+  },
+  "initial_syncing_done": {
+    "message": "<strong>הסנכרון הושלם!</strong><br /><br /> תייג אתרים והשינויים שלך יגובו. הצג את האתרים המתויגים שלך בכתובת <br />$link_open$better-history.com/me$link_close$",
+    "description": "initial syncing done text",
+    "placeholders": {
+      "link_open": {
+        "content": "$1",
+        "example": "link open tag"
+      },
+      "link_close": {
+        "content": "$2",
+        "example": "link close tag"
+      }
+    }
+  },
+  "syncing_decision_title": {
+    "message": "יש לך אתרים שסונכרנו בעבר",
+    "description": "title for syncing decision modal"
+  },
+  "syncing_decision_description": {
+    "message": "Looks like you have $strong_open$synced tagged sites$strong_close$. You can choose to pull those sites replacing your local tags or sync your local tags. You can view your synced sites by visiting <a href='http://www.better-history.com/me' target='_blank'>better-history.com/me</a>",
+    "description": "syncing decision description",
+    "placeholders": {
+      "amount": {
+        "content": "$1",
+        "example": "amount of synced sites"
+      },
+      "strong_open": {
+        "content": "$2",
+        "example": "strong open tag"
+      },
+      "strong_close": {
+        "content": "$3",
+        "example": "strong close tag"
+      }
+    }
+  },
+  "syncing_push_button": {
+    "message": "השתמש בתגיות המקומיות שלי",
+    "description": "push button text"
+  },
+  "syncing_pull_button": {
+    "message": "השתמש בתגיות המרוחקות שלי",
+    "description": "pull button text"
+  },
+  "auth_error_title": {
+    "message": "אוי לא...",
+    "description": "auth error modal title"
+  },
+  "auth_error_description": {
+    "message": "היתה בעיה בכניסה. כדי להמשיך לסנכרן את התגיות שלך, אנא התחבר מחדש.",
+    "description": "auth error modal description text"
+  },
+  "login_again_button": {
+    "message": "התחבר מחדש",
+    "description": "log in again button"
+  },
+  "server_error_title": {
+    "message": "אוי לא! ארעה שגיאה...",
+    "description": "server error title"
+  },
+  "server_error_description": {
+    "message": "We are having a bit of trouble, but we're on it. Your tags will temporarily be read only, sorry for the inconvenience!",
+    "description": "server error description"
+  },
+  "connection_required_title": {
+    "message": "נדרש חיבור לאינטרנט...",
+    "description": "connection required title"
+  },
+  "connection_required_description": {
+    "message": "נראה שאתה לא מחובר לאינטרנט. התגיות שלך יטענו רק כאשר שתתחבר.",
+    "description": "connection required description"
+  },
+  "connection_restored_title": {
+    "message": "חזרנו!",
+    "description": "connection restored title"
+  },
+  "connection_restored_description": {
+    "message": "התגיות שלך סונכרנו בבטחה! מצטערים על זמן ההשבתה, אנו מרגישים נבוכים...",
+    "description": "connection restored description"
+  },
+  "read_only_explanation_link": {
+    "message": "מדוע איני יכול לשנות את התגיות שלי?",
+    "description": "read only explanation link"
+  },
+  "read_only_explanation_title": {
+    "message": "מדוע איני יכול לשנות את התגיות שלי?",
+    "description": "read only explanation title"
+  },
+  "read_only_explanation_description": {
+    "message": "When you are not connected to the internet or when we are having an issue syncing your tags, your local tags are read only - you cannot make changes to them. This is to avoid any potential conflicts when syncing tags.",
+    "description": "read only explanation description"
+  },
+  "login_error_title": {
+    "message": "There was a problem logging in...",
+    "description": "login error title"
+  },
+  "login_error_description": {
+    "message": "There was a problem logging you in. We are having some issues at the moment, please try again later.",
+    "description": "login error description"
+  },
+  "permissions_details": {
+    "message": "Explanation of asked $link_open$permissions$link_close$",
+    "description": "permission details link",
+    "placeholders": {
+      "link_open": {
+        "content": "$1",
+        "example": "link open tag"
+      },
+      "link_close": {
+        "content": "$2",
+        "example": "link close tag"
+      }
+    }
+  },
+  "manually_sync_local_link": {
+    "message": "סנכרן תגיות מקומיות באופן ידני"
+  },
+  "devices_link": {
+    "message": "התקנים",
+    "description": "devices menu link"
+  },
+  "devices_title": {
+    "message": "התקנים",
+    "description": "title for devices sessions page"
+  },
+  "calendar_link": {
+    "message": "לוח שנה..",
+    "description": "link to view all months in main nav"
+  },
+  "calendar_title": {
+    "message": "לוח שנה"
+  },
+  "sunday_short": {
+    "message": "ראשון"
+  },
+  "monday_short": {
+    "message": "שני"
+  },
+  "tuesday_short": {
+    "message": "שלישי"
+  },
+  "wednesday_short": {
+    "message": "רביעי"
+  },
+  "thursday_short": {
+    "message": "חמישי"
+  },
+  "friday_short": {
+    "message": "שישי"
+  },
+  "saturday_short": {
+    "message": "שבת"
+  },
+  "search_tips_title": {
+    "message": "טיפים לחיפוש"
+  },
+  "search_suggestion_link": {
+    "message": "יש לך הצעה?"
+  }
+}
