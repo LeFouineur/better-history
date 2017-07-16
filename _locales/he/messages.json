@@ -787,7 +787,7 @@
    },
    "twitter_template": {
       "description": "Default message for Twitter sharing",
-      "message": "ראה מה אתה מפסיד! נסה רחב שימושי "ההיסטוריה המתקדמת" עבור #GoogleChrome"
+      "message": "ראה מה אתה מפסיד! נסה הרחבה שימושית 'ההיסטוריה המתקדמת' עבור #GoogleChrome"
    },
    "use_24_hour_clock_label": {
       "description": "Label for check box to show hours as 24 hours",
