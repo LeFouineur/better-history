@@ -157,15 +157,15 @@
    },
    "april": {
       "description": "The month",
-      "message": "апреля"
+      "message": "אפריל"
    },
    "arabic": {
       "description": "The language",
-      "message": "Арабский"
+      "message": "ערבית"
    },
    "august": {
       "description": "The month",
-      "message": "августа"
+      "message": "אוגוסט"
    },
    "back_arrow": {
       "description": "ascii arrow",
@@ -183,7 +183,7 @@
    },
    "catalonian": {
       "description": "The language",
-      "message": "Каталонский"
+      "message": "קטלאנית"
    },
    "chinese_simplified": {
       "description": "The language",
@@ -211,7 +211,7 @@
    },
    "confirm_delete_all_search_results": {
       "description": "Confirmation text to delete all search results",
-      "message": "Удалить все результаты поиска?"
+      "message": "למחוק את כל תוצאות החיפוש?"
    },
    "confirm_delete_all_visits": {
       "description": "Confirmation text to delete all visits from a specific date",
@@ -243,11 +243,11 @@
    },
    "current_version_label": {
       "description": "label for the current version",
-      "message": "Текущая версия"
+      "message": "הגירסה הנוכחית"
    },
    "czech": {
       "description": "The language",
-      "message": "Чешский"
+      "message": "צ'כית"
    },
    "date_week_label": {
       "description": "short week w/ label",
@@ -269,31 +269,31 @@
    },
    "delete_all_visits_for_filter_button": {
       "description": "Text for delete all visits for a day filter button",
-      "message": "להסיר..."
+      "message": "מחק..."
    },
    "delete_all_visits_for_search_button": {
       "description": "Text for delete all visits from search button",
-      "message": "להסיר..."
+      "message": "מחק..."
    },
    "delete_grouped_visits": {
       "description": "Tooltip for the delete button on grouped visits",
-      "message": "Удалить группу посещений"
+      "message": "מחק ביקור קבוצתי"
    },
    "delete_time_interval_button": {
       "description": "delete button label",
-      "message": "להסיר"
+      "message": "מחק"
    },
    "delete_time_interval_button_tooltip": {
       "description": "delete button tooltip",
-      "message": "להסיר"
+      "message": "מחק"
    },
    "delete_visit": {
       "description": "Tooltip for the delete button on a page visit",
-      "message": "Удалить посещение"
+      "message": "מחק ביקור"
    },
    "developed_by": {
       "description": "Developer label",
-      "message": "Идея и разработка $link_open$$name$$link_close$",
+      "message": "רעיון ופיתוח $link_open$$name$$link_close$",
       "placeholders": {
          "link_close": {
             "content": "$2",
@@ -311,7 +311,7 @@
    },
    "dutch": {
       "description": "The language",
-      "message": "Голландский"
+      "message": "הולנדית"
    },
    "evening": {
       "description": "The evening abbreviation when using 12 hour time",
@@ -319,7 +319,7 @@
    },
    "expand_button": {
       "description": "Text for expand button",
-      "message": "Развернуть"
+      "message": "פתח"
    },
    "extended_formal_date": {
       "description": "The order of a full extended date",
@@ -331,7 +331,7 @@
    },
    "feedback_section_title": {
       "description": "Section heading in Settings",
-      "message": "Обратная связь"
+      "message": "משוב"
    },
    "formal_date": {
       "description": "The order of a full date",
@@ -339,7 +339,7 @@
    },
    "french": {
       "description": "The language",
-      "message": "Французский"
+      "message": "צרפתית"
    },
    "friday": {
       "description": "The day of the week",
@@ -355,15 +355,15 @@
    },
    "group_visits_by_domain_label": {
       "description": "Label for check box to group visits by domain",
-      "message": "Группировать посещения по домену"
+      "message": "ביקור קבוצתי לפי דומיין"
    },
    "group_visits_by_label": {
       "description": "Label for select box to set the time grouping interval for visits",
-      "message": "Группировать каждые"
+      "message": "קבץ הכל"
    },
    "hindi": {
       "description": "The language",
-      "message": "Хинди"
+      "message": "הודית"
    },
    "history_title": {
       "description": "Extension title",
@@ -371,15 +371,15 @@
    },
    "hungarian": {
       "description": "The language",
-      "message": "Венгерский"
+      "message": "הונגרית"
    },
    "italian": {
       "description": "The language",
-      "message": "Итальянский"
+      "message": "איטלקית"
    },
    "january": {
       "description": "The month",
-      "message": "января"
+      "message": "ינואר"
    },
    "japanese": {
       "description": "The language",
@@ -387,23 +387,23 @@
    },
    "july": {
       "description": "The month",
-      "message": "июля"
+      "message": "יולי"
    },
    "june": {
       "description": "The month",
-      "message": "июня"
+      "message": "יוני"
    },
    "last_week": {
       "description": "last week",
-      "message": "Прошлая неделя"
+      "message": "שבוע אחרון"
    },
    "latvian": {
       "description": "The language",
-      "message": "Латышский"
+      "message": "לטבית"
    },
    "leave_a_review": {
       "description": "Link text to leave a review",
-      "message": "Оставить отзыв..."
+      "message": "להשאיר תגובה..."
    },
    "local_time": {
       "description": "local time format",
@@ -411,11 +411,11 @@
    },
    "manifest_browser_action_title": {
       "description": "Manifest browser action title",
-      "message": "Просмотреть историю"
+      "message": "עיון בהיסטוריה"
    },
    "manifest_description": {
       "description": "Manifest description",
-      "message": "Удобный просмотр истории посещений веб-сайтов. Наилучший поиск, строгий интерфейс и множество фильтров - все это для Вас!"
+      "message": "להציג בקלות את ההיסטוריה של אתרי אינטרנט שביקרת. החיפוש הטוב ביותר, הממשק הנקי ומגוון של מסננים - הכל בשבילך!"
    },
    "manifest_name": {
       "description": "Manifest name",
@@ -427,7 +427,7 @@
    },
    "max_number_of_search_results": {
       "description": "number of search results found",
-      "message": "Найдено более $number$ результатов",
+      "message": "מצאתי יותר $number$ תוצאות",
       "placeholders": {
          "number": {
             "content": "$1",
@@ -449,7 +449,7 @@
    },
    "no_visits_found": {
       "description": "Text for no visits found message",
-      "message": "Ничего не найдено. Сожалею."
+      "message": "שום דבר לא נמצא. סליחה."
    },
    "november": {
       "description": "The month",
@@ -457,7 +457,7 @@
    },
    "number_of_search_results": {
       "description": "number of search results found",
-      "message": "Найдено $number$ совпадений",
+      "message": "מצאתי $number$ התאמות",
       "placeholders": {
          "number": {
             "content": "$1",
@@ -467,7 +467,7 @@
    },
    "number_of_visits": {
       "description": "Label to a number representing a number of visits",
-      "message": "$number_open$$number$$number_close$ Посещения",
+      "message": "$number_open$$number$$number_close$ ביקורים",
       "placeholders": {
          "number": {
             "content": "$1",
@@ -613,11 +613,11 @@
    },
    "polish": {
       "description": "The language",
-      "message": "Польский"
+      "message": "פולנית"
    },
    "portuguese": {
       "description": "The language",
-      "message": "Португальский"
+      "message": "פורטוגזית"
    },
    "prompt_cancel_button": {
       "description": "Button to close modal",
