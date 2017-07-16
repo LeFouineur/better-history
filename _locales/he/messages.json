@@ -821,11 +821,11 @@
    },
    "version_title": {
       "description": "Title of the version modal",
-      "message": "Большое обновление: посещения организованны по неделям!"
+      "message": "חידוש גדול: ביקורים מסודרים לפי שבוע!"
    },
    "version_whats_new": {
       "description": "Heading for what's new in version",
-      "message": "Что нового в этой версии:"
+      "message": "מה חדש בגירסה זו:"
    },
    "vietnamese": {
       "description": "The language",
