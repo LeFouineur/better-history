@@ -629,15 +629,15 @@
    },
    "prompt_title": {
       "description": "Title of prompt",
-      "message": "Подтверждение"
+      "message": "אישור"
    },
    "right_click_options_section_title": {
       "description": "Section heading in Settings",
-      "message": "Опции контекстного меню"
+      "message": "תפריט אפשרויות"
    },
    "romanian": {
       "description": "The language",
-      "message": "Румынский"
+      "message": "רומנית"
    },
    "russian": {
       "description": "The language",
@@ -669,7 +669,7 @@
    },
    "search_time_frame": {
       "description": "Time frame relating to Search",
-      "message": "Последние несколько месяцев"
+      "message": "בחודשים האחרונים"
    },
    "search_title": {
       "description": "title for the search page",
@@ -685,11 +685,11 @@
    },
    "settings_link": {
       "description": "Text for the link to Settings",
-      "message": "Настройки"
+      "message": "הגדרות"
    },
    "settings_title": {
       "description": "Settings title for Settings page",
-      "message": "Настройки"
+      "message": "הגדרות"
    },
    "short_date": {
       "description": "for Moment.js",
@@ -701,19 +701,19 @@
    },
    "slovak": {
       "description": "The language",
-      "message": "Словацкий"
+      "message": "סלובקית"
    },
    "spanish": {
       "description": "The language",
-      "message": "Испанский"
+      "message": "ספרדית"
    },
    "spread_the_word_section_title": {
       "description": "Section heading in Settings",
-      "message": "Расскажите о нас"
+      "message": "ספרו עלינו"
    },
    "suggestions_bugs_comments": {
       "description": "Link text to give feedback",
-      "message": "Есть предложения, нашли ошибку, хотите оставить комментарий? Пишите в Твиттер $link_open$@Better_History!$link_close$",
+      "message": "ישנן הצעות או שמצאת באג, רוצה להשאיר תגובה? כתוב לטוויטר $link_open$@Better_History!$link_close$",
       "placeholders": {
          "link_close": {
             "content": "$2"
@@ -729,11 +729,11 @@
    },
    "swedish": {
       "description": "The language",
-      "message": "Шведский"
+      "message": "שבדית"
    },
    "this_week": {
       "description": "this week",
-      "message": "Текущая неделя"
+      "message": "השבוע הנוכחי"
    },
    "thursday": {
       "description": "The day of the week",
@@ -741,15 +741,15 @@
    },
    "time_format_label": {
       "description": "Label for select box to set the time format (12 or 24 hours)",
-      "message": "Формат времени"
+      "message": "תבנית זמן"
    },
    "today_link": {
       "description": "Link for today",
-      "message": "Сегодня"
+      "message": "היום"
    },
    "translation_help_heading": {
       "description": "Heading to recruit translators",
-      "message": "Не нашли свой язык?"
+      "message": "אינך רואה את השפה שלך"
    },
    "translation_instructions": {
       "description": "Instructions on how to help translate",
@@ -771,7 +771,7 @@
    },
    "translators_heading": {
       "description": "Heading for translators",
-      "message": "Переводчики"
+      "message": "מתרגם"
    },
    "tuesday": {
       "description": "The day of the week",
@@ -779,7 +779,7 @@
    },
    "turkish": {
       "description": "The language",
-      "message": "Турецкий"
+      "message": "טורקית"
    },
    "twitter_language": {
       "description": "Twitter language abbreviation",
@@ -787,7 +787,7 @@
    },
    "twitter_template": {
       "description": "Default message for Twitter sharing",
-      "message": "Смотрите, что вы упускаете! Попробуйте удобнейшее расширение 'Продвинутая история' для #GoogleChrome"
+      "message": "ראה מה אתה מפסיד! נסה רחב שימושי "ההיסטוריה המתקדמת" עבור #GoogleChrome"
    },
    "use_24_hour_clock_label": {
       "description": "Label for check box to show hours as 24 hours",
@@ -799,11 +799,11 @@
    },
    "version_important_note": {
       "description": "Heading for an important note",
-      "message": "Важное примечание"
+      "message": "הערה חשובה"
    },
    "version_items": {
       "description": "Release bulletpoints",
-      "message": "$open$Посещения организованы недельными интервалами$close$ $open$Удобный просмотр последних 10-ти недель посещений$close$ $open$Недельная сводка Вашей интернет-активности$close$ $open$Более быстрый запуск расширения$close$ $open$Оптимизированный поиск и группировка посещений$close$ $open$Упрощенный поиск по последнему посещенному домену в один клик$close$",
+      "message": "$open$ביקורים מאורגנים במרווחים שבועיים$close$ $open$הצג בקלות את 10 השבועות של ביקורים האחרונים$close$ $open$סיכום שבועי של פעילות האינטרנט שלך$close$ $open$הארכת אתחול מהיר יותר$close$ $open$ביקורי חיפוש וקבוצה אופטימליים$close$ $open$חיפוש פשוט על הביקור האחרון תחום בלחיצה אחת$close$",
       "placeholders": {
          "close": {
             "content": "$2",
@@ -829,19 +829,19 @@
    },
    "vietnamese": {
       "description": "The language",
-      "message": "Вьетнамский"
+      "message": "ויטנאמית"
    },
    "view_release_announcement_link": {
       "description": "Link text to view the release announcement",
-      "message": "Посмотреть историю версий"
+      "message": "היסטורית גרסה צף"
    },
    "visit_grouping_section_title": {
       "description": "Section heading in Settings",
-      "message": "Группировка посещений"
+      "message": "ביקור קבוצה"
    },
    "visits_to_domain": {
       "description": "Label for visits to domain context menu item",
-      "message": "Посещения на домен $domain$",
+      "message": "חיפוש לפי דומיין $domain$",
       "placeholders": {
          "domain": {
             "content": "$1",
