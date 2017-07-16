@@ -187,7 +187,7 @@
    },
    "chinese_simplified": {
       "description": "The language",
-      "message": "Китайский (упрощенный)"
+      "message": "סינית (פשוטה)"
    },
    "chrome_language": {
       "description": "language identifier used by Chrome",
@@ -195,11 +195,11 @@
    },
    "clear_history_button": {
       "description": "Button text for clear history button in Settings",
-      "message": "Очистить историю..."
+      "message": "נקה היסטוריה..."
    },
    "clearing_history_section_title": {
       "description": "Section heading in Settings",
-      "message": "Очистка истории"
+      "message": "נקה היסטוריה"
    },
    "close_button": {
       "description": "Button to close modal",
@@ -207,7 +207,7 @@
    },
    "collapse_button": {
       "description": "Text for collapse button",
-      "message": "Свернуть"
+      "message": "כווץ"
    },
    "confirm_delete_all_search_results": {
       "description": "Confirmation text to delete all search results",
@@ -215,7 +215,7 @@
    },
    "confirm_delete_all_visits": {
       "description": "Confirmation text to delete all visits from a specific date",
-      "message": "Удалить все посещения с $formal_date$?",
+      "message": "להסיר את כל הביקורים ב $formal_date$?",
       "placeholders": {
          "formal_date": {
             "content": "$1",
@@ -225,7 +225,7 @@
    },
    "credits_link": {
       "description": "The link to credits",
-      "message": "$open$Better History$close$ Благодарности",
+      "message": "$open$Better History$close$ תודות",
       "placeholders": {
          "close": {
             "content": "$2",
@@ -251,7 +251,7 @@
    },
    "date_week_label": {
       "description": "short week w/ label",
-      "message": "Неделя от $week$",
+      "message": "שבוע מ $week$",
       "placeholders": {
          "week": {
             "content": "$1",
